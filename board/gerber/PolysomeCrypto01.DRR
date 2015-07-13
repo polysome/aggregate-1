@@ -1,0 +1,15 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: PolysomeCrypto01.PcbDoc   5/19/2015  11:09:57 AM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PolysomeCrypto01.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        10mil (0.254mm)          Round          662              35.36 Inch (898.21 mm)
+T2        102.36mil (2.59994mm)    Round          2                0.95 Inch (24.20 mm)
+---------------------------------------------------------------------------
+Totals                                            664              36.32 Inch (922.41 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:02
