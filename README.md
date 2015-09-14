@@ -2,7 +2,8 @@
 
 The aggregate-1 is a general purpose FPGA development platform for designs that require both a large fabric and high speed interconnect. The miniPCIe interface allows operation with most laptops, embedded Small Board Computers and routers. It is particularly suited to high security applications.
 
-Hardware;
+Hardware
+========
 
 • Xilinx Spartan 6 LX150T<br />
 • 1GB DDR3<br />
@@ -12,7 +13,8 @@ Hardware;
 • 38 pairs of 1.5V GPIO over two flex cable breakout headers ~ 7.6Gbps @ 200MHz.<br />
 • Open source design including gerber files, manufacturing specifications, BOM and source list.<br />
 
-Suggested applications;
+Applications
+============
 
 • Libre SoC development. Bitstreams for RISC-V and OpenSPARC will be available.<br />
 • Hardware Security Module (HSM).<br />
