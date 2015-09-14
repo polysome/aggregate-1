@@ -15,7 +15,7 @@ Suggested use cases;
 
 • Open source SoC development. GPLv3 bitstreams for RISC-V and OpenSPARC will be made available.<br />
 • Custom Hardware Security Modules and cryptographic accelerators.<br />
-• Software defined radio. A daughterboard with 100MHz RX and 250MHz TX channel bandwidth 25MHz-6GHz is planned.<br />
+• Software defined radio. A daughterboard with 100MHz RX and 250MHz TX of bandwidth 25MHz-6GHz will follow.<br />
 • Research into evolvable hardware and hardware accelerated machine learning.<br />
 
 This project intends to lower the cost to entry for sophisticated high speed digital design and is a collaboration between Numato Lab and Polysome.
