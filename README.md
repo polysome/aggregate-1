@@ -5,10 +5,15 @@ The aggregate-1 is a general purpose FPGA development platform for designs that 
 Features;
 
 • 9.6 Gbps throughput
+
 • Xilinx Spartan 6 LX100T or LX150T
+
 • 1GB DDR3 
+
 • External frequency reference input to enable development of realtime applications. Onboard 32.768KHz and 100MHz oscillators.
+
 • 38 pairs of 1.5V GPIO over two flex cable breakout headers - 7.6Gbps @ 200MHz.
+
 • Open source design including gerber files, manufacturing specifications, BOM and source list.
 
 Suggested use cases;
