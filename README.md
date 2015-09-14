@@ -9,7 +9,7 @@ Hardware
 • 1GB DDR3<br />
 • microSD card slot (bootable)<br />
 • 128Mb write protected SPI flash<br />
-• External frequency reference input enables realtime applications.<br />
+• External frequency reference input for realtime applications.<br />
 • Onboard 32.768KHz and 100MHz oscillators.<br />
 • 38 pairs of 1.5V GPIO over two flex cable breakout headers ~ 7.6Gbps @ 200MHz.<br />
 • Open source design including gerber files, manufacturing specifications, BOM and source list.<br />
