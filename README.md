@@ -4,7 +4,7 @@ The aggregate-1 is a general purpose FPGA development platform for designs that 
 
 Features;
 
-• Xilinx Spartan 6 LX100T or LX150T<br />
+• Xilinx Spartan 6 LX150T<br />
 • 1GB DDR3<br />
 • microSD card slot<br />
 • External frequency reference input enables realtime applications.<br />
