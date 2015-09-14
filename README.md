@@ -28,7 +28,7 @@ Applications
 Preorder
 ========
 
-Preorders are availible on [Crowd Supply](https://www.crowdsupply.com/polysome/aggregate-1).
+Preorders are availible now at [Crowd Supply](https://www.crowdsupply.com/polysome/aggregate-1).
 
 ![alt tag](https://s3-us-west-2.amazonaws.com/polysome.io/img/AG-1_1.jpg)
 ![alt tag](https://s3-us-west-2.amazonaws.com/polysome.io/img/AG-1_2.jpg)
