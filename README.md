@@ -36,7 +36,7 @@ Preorders are availible on [Crowd Supply](https://www.crowdsupply.com/polysome/a
 Credits
 =======
 
-This project intends to lower the cost to entry for sophisticated high speed digital design and is a collaboration between Numato Lab and Polysome. 
+This project is a collaboration between Numato Lab and Polysome Research. 
 
 Anoop Jose<br />
 Tom<br />
