@@ -23,12 +23,12 @@ This project intends to lower the cost to entry for sophisticated high speed dig
 
 Preorders are availible on [Crowd Supply](https://www.crowdsupply.com/polysome/aggregate-1).
 
+![alt tag](https://s3-us-west-2.amazonaws.com/polysome.io/img/AG-1_1.jpg)
+![alt tag](https://s3-us-west-2.amazonaws.com/polysome.io/img/AG-1_2.jpg)
+
 Designers;
 
 Anoop Jose<br />
 Tom<br />
 Elijah Fedele<br />
 Thom Lauret<br />
-
-![alt tag](https://s3-us-west-2.amazonaws.com/polysome.io/img/AG-1_1.jpg)
-![alt tag](https://s3-us-west-2.amazonaws.com/polysome.io/img/AG-1_2.jpg)
