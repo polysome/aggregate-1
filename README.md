@@ -1,6 +1,6 @@
 # aggregate-1
 
-The aggregate-1 is a general purpose FPGA development platform for designs that require both a large fabric and high speed interconnect. The miniPCIe interface allows operation with most laptops, embedded small board computers and routers. 
+The aggregate-1 is a general purpose FPGA development platform for designs that require both a large fabric and high speed interconnect. The miniPCIe interface allows operation with most laptops, embedded Small Board Computers and routers. 
 
 Features;
 
@@ -8,8 +8,8 @@ Features;
 • 1GB DDR3<br />
 • microSD card slot<br />
 • External frequency reference input enables realtime applications.<br />
-• Onboard 32.768KHz and 100MHz oscillators<br />
-• 38 pairs of 1.5V GPIO over two flex cable breakout headers ~ 7.6Gbps @ 200MHz<br />
+• Onboard 32.768KHz and 100MHz oscillators.<br />
+• 38 pairs of 1.5V GPIO over two flex cable breakout headers ~ 7.6Gbps @ 200MHz.<br />
 • Open source design including gerber files, manufacturing specifications, BOM and source list.<br />
 
 Suggested applications;
