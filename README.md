@@ -8,6 +8,7 @@ Hardware
 • Xilinx Spartan 6 LX150T<br />
 • 1GB DDR3<br />
 • microSD card slot (bootable)<br />
+• 128Mb write protected SPI flash<br />
 • External frequency reference input enables realtime applications.<br />
 • Onboard 32.768KHz and 100MHz oscillators.<br />
 • 38 pairs of 1.5V GPIO over two flex cable breakout headers ~ 7.6Gbps @ 200MHz.<br />
