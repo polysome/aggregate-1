@@ -21,7 +21,7 @@ Suggested applications;
 
 This project intends to lower the cost to entry for sophisticated high speed digital design and is a collaboration between Numato Lab and Polysome. 
 
-Preorders are availible on [Crowd Supply](https://www.crowdsupply.com/polysome/aggregate-1)
+Preorders are availible on [Crowd Supply](https://www.crowdsupply.com/polysome/aggregate-1).
 
 Designers;
 
