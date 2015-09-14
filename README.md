@@ -2,7 +2,7 @@
 
 The aggregate-1 is a general purpose FPGA development platform for designs that require both a large fabric and high speed interconnect. The miniPCIe interface allows operation with most laptops, embedded small board computers and routers. 
 
-Features
+Features;
 
 • Xilinx Spartan 6 LX100T or LX150T<br />
 • 1GB DDR3<br />
