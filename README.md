@@ -14,7 +14,7 @@ Features;
 
 Suggested applications;
 
-• Open source SoC development. Bitstreams for RISC-V and OpenSPARC will be available.<br />
+• Libre SoC development. Bitstreams for RISC-V and OpenSPARC will be available.<br />
 • Custom Hardware Security Modules and cryptographic accelerators.<br />
 • Software defined radio.<br />
 • Research into evolvable hardware and hardware accelerated machine learning.<br />
