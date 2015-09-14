@@ -25,14 +25,18 @@ Applications
 • Software defined radio.<br />
 • Research into evolvable hardware and hardware accelerated machine learning.<br />
 
-This project intends to lower the cost to entry for sophisticated high speed digital design and is a collaboration between Numato Lab and Polysome. 
+Preorder
+========
 
 Preorders are availible on [Crowd Supply](https://www.crowdsupply.com/polysome/aggregate-1).
 
 ![alt tag](https://s3-us-west-2.amazonaws.com/polysome.io/img/AG-1_1.jpg)
 ![alt tag](https://s3-us-west-2.amazonaws.com/polysome.io/img/AG-1_2.jpg)
 
-Designers;
+Credits
+=======
+
+This project intends to lower the cost to entry for sophisticated high speed digital design and is a collaboration between Numato Lab and Polysome. 
 
 Anoop Jose<br />
 Tom<br />
