@@ -38,6 +38,8 @@ Credits
 
 This project is a collaboration between Numato Lab and Polysome Research. 
 
+Designers;
+
 Anoop Jose<br />
 Tom<br />
 Elijah Fedele<br />
