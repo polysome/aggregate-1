@@ -7,17 +7,17 @@ Features
 • Xilinx Spartan 6 LX100T or LX150T<br />
 • 1GB DDR3<br />
 • microSD card slot<br />
-• External frequency reference input enables realtime applications<br />
+• External frequency reference input enables realtime applications.<br />
 • Onboard 32.768KHz and 100MHz oscillators<br />
 • 38 pairs of 1.5V GPIO over two flex cable breakout headers ~ 7.6Gbps @ 200MHz<br />
-• Open source design including gerber files, manufacturing specifications, BOM and source list<br />
+• Open source design including gerber files, manufacturing specifications, BOM and source list.<br />
 
 Suggested applications;
 
-• Open source SoC development. Bitstreams for RISC-V and OpenSPARC will be available<br />
-• Custom Hardware Security Modules and cryptographic accelerators<br />
-• Software defined radio<br />
-• Research into evolvable hardware and hardware accelerated machine learning<br />
+• Open source SoC development. Bitstreams for RISC-V and OpenSPARC will be available.<br />
+• Custom Hardware Security Modules and cryptographic accelerators.<br />
+• Software defined radio.<br />
+• Research into evolvable hardware and hardware accelerated machine learning.<br />
 
 This project intends to lower the cost to entry for sophisticated high speed digital design and is a collaboration between Numato Lab and Polysome.
 
