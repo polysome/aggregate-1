@@ -37,7 +37,7 @@ Preorders are available now at &nbsp; <a href="https://www.crowdsupply.com/polys
 Credits
 =======
 
-This project is a collaboration between &nbsp; <a href="http://numato.com">![Numato Lab](http://numato.com/skin/frontend/base/default/images/numatologo.png)</a> and Polysome Research. 
+This project is a collaboration between &nbsp; <a href="http://numato.com">![Numato Lab](http://numato.com/skin/frontend/base/default/images/numatologo.png =250x)</a> and Polysome Research. 
 
 Anoop Jose<br />
 Elijah Fedele<br />
