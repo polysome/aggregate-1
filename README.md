@@ -1,6 +1,6 @@
 # aggregate-1
 
-The aggregate-1 is a general purpose FPGA development platform for designs that require both a large fabric and high speed interconnect. The miniPCIe interface allows operation with most laptops, embedded small board computers and routers. It is particularly suited to security applications.
+The aggregate-1 is a general purpose FPGA development platform for designs that require both a large fabric and high speed interconnect. The miniPCIe interface allows operation with most laptops, embedded SBCs and routers. It is particularly suited to security applications.
 
 Hardware
 ========
@@ -17,14 +17,12 @@ Hardware
 Applications
 ============
 
-• Libre SoC development. Bitstreams for RISC-V and OpenSPARC will be available.<br />
-• Hardware Security Module (HSM).<br />
-• Authentication tokens.<br />
-• Verifiable encrypted storage with cascade blockciphers and isolated PIN entry.<br />
-• Cryptographic acceleration.<br />
-• Cryptocurrency / bitcoin wallet.<br />
-• Software defined radio.<br />
-• Research into evolvable hardware and hardware accelerated machine learning.<br />
+• Libre SoC development. Bitstreams for RISC-V and OpenSPARC will be available<br />
+• Hardware Security Module (HSM)<br />
+• Authentication token<br />
+• Verifiable encrypted storage with cascade blockciphers and isolated PIN entry<br />
+• Cryptographic acceleration<br />
+• Software defined radio<br />
 
 Preorder
 ========
