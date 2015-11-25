@@ -1,6 +1,6 @@
 # aggregate-1
 
-The aggregate-1 is a general purpose FPGA development platform for designs that require both a large fabric and high speed interconnect. The miniPCIe interface allows operation with most laptops, embedded Small Board Computers and routers. It is particularly suited to security applications.
+The aggregate-1 is a general purpose FPGA development platform for designs that require both a large fabric and high speed interconnect. The miniPCIe interface allows operation with most laptops, embedded small board computers and routers. It is particularly suited to security applications.
 
 Hardware
 ========
